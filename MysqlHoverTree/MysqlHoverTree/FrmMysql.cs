@@ -8,10 +8,10 @@ using MySql.Data.MySqlClient;
 
 namespace MysqlHoverTree
 {
-    public partial class Form1 : Form
+    public partial class FrmMysql : Form
     {
         private MySqlConnection _conn;
-        public Form1( )        {
+        public FrmMysql( )        {
             InitializeComponent();
         }
  

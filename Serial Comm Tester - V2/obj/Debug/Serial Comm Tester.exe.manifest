@@ -44,24 +44,24 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Serial Comm Tester.exe" size="201216">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Serial Comm Tester.exe" size="200704">
       <assemblyIdentity name="Serial Comm Tester" version="3.2.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>uE0Z2dWzOxznJ1gQu1+3rk++Viuee0RyPler6U4JUtw=</dsig:DigestValue>
+        <dsig:DigestValue>JUDqlj4QM1e4Bzs+aE+dSIeA9J4IgErxIc1YFPydAY0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="HEX_to_ASCII.txt" size="7458">
+  <file name="HEX_to_ASCII.txt" size="7729">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>/l8LPpcEsWq5+EjXaTNrTDWyWnmzjWHO74Jsn76rHkI=</dsig:DigestValue>
+      <dsig:DigestValue>8yp4nTx9IdWMQTaqlKsa9xaIEz8U9easwo1SW8o3drM=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Serial Comm Tester.exe.config" size="184">

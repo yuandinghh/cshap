@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using DevComponents.DotNetBar;
+using Serial_Comm_Tester;
 
 namespace MysqlHoverTree
 {
@@ -19,7 +20,7 @@ namespace MysqlHoverTree
         {
             InitializeComponent();
         }
-        private void buttonX1_Click(object sender, EventArgs e) {
+        private void buttonX1_Click(object sender, EventArgs e) {  //退出系统
             System.Environment.Exit( 0 );  
         }
 
@@ -52,10 +53,9 @@ namespace MysqlHoverTree
         /// <param name="sender"></param>
         /// <param name="e"></param>
         private void buttonX2_Click(object sender, EventArgs e) {   //设置通信口
-            FrmScanProt fm = new FrmScanProt();
+            COMForm fm = new COMForm();
             fm.ShowDialog();
         }
-
         private void textBoxX1_TextChanged(object sender, EventArgs e) {
 
         }

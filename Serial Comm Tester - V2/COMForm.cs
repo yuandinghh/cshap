@@ -842,14 +842,8 @@ namespace Serial_Comm_Tester  {
 
         }
         //this code makes sure on exit that the port closes too
-        private void Form1_FormClosed(object sender, FormClosedEventArgs e)
-        {
-            if (serialPort1.IsOpen)
-            {
-                serialPort1.Close();
-            }
-           
-
+        private void Form1_FormClosed(object sender, FormClosedEventArgs e)        {
+          //  if (serialPort1.IsOpen)      {        serialPort1.Close();           }
         }
         //this code gets the received data from the serial port and displya it in richtextbox2
         private string richbox2string;
@@ -1360,12 +1354,13 @@ namespace Serial_Comm_Tester  {
             }
         }
         private bool TX = false;        private bool RX = false;
-        private void btnEXIT_Click(object sender, EventArgs e)
-        {
-            serialPort1.Close();
+        private void btnEXIT_Click(object sender, EventArgs e)          {
+            // serialPort1.Close();    COMForm.ActiveForm.Close();    Process.GetCurrentProcess().Kill();
+            if (serialPort1.IsOpen)
+            {
 
-            COMForm.ActiveForm.Close();
-            Process.GetCurrentProcess().Kill();
+            }
+                Form1_FormClosed(null, null);
         }
         private void timer1_Tick(object sender, EventArgs e)
         {
@@ -2299,18 +2294,15 @@ namespace Serial_Comm_Tester  {
                 TopMost = false;
             }
         }
-        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
-        { 
-             if (serialPort1.IsOpen)
-            {
-                try
-                {
-                    serialPort1.Close();
-                    serialPort1.DiscardInBuffer();
-                    serialPort1.DiscardOutBuffer();
-                }
-                catch {/*ignore*/}
-            }
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)    {  //£¿£¿¹Ø±Õ
+            //if (serialPort1.IsOpen)         {
+            //    try          {
+            //        serialPort1.Close();
+            //        serialPort1.DiscardInBuffer();
+            //        serialPort1.DiscardOutBuffer();
+            //    }
+            //    catch {/*ignore*/}
+            //}
         }
         //this will append the send data with a carrige return or not
         private bool boolCarrigeReturnLF = false;

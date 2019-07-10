@@ -11,3 +11,13 @@ E:\VSProjects\Serial-Comm-Tester-master\WINEX\obj\Debug\WINEX.Form1.resources
 D:\360MoveData\Visual Studio 2019\Serial-Comm-Tester-master\WINEX\bin\Debug\WINEX.exe.config
 D:\360MoveData\Visual Studio 2019\Serial-Comm-Tester-master\WINEX\obj\Debug\WINEX.exe
 D:\360MoveData\Visual Studio 2019\Serial-Comm-Tester-master\WINEX\obj\Debug\WINEX.pdb
+D:\360MoveData\GitHub\cshap\cshap\WINEX\bin\Debug\WINEX.exe.config
+D:\360MoveData\GitHub\cshap\cshap\WINEX\bin\Debug\WINEX.exe
+D:\360MoveData\GitHub\cshap\cshap\WINEX\bin\Debug\WINEX.pdb
+D:\360MoveData\GitHub\cshap\cshap\WINEX\obj\Debug\WINEX.csprojResolveAssemblyReference.cache
+D:\360MoveData\GitHub\cshap\cshap\WINEX\obj\Debug\WINEX.Form1.resources
+D:\360MoveData\GitHub\cshap\cshap\WINEX\obj\Debug\WINEX.Form1g.resources
+D:\360MoveData\GitHub\cshap\cshap\WINEX\obj\Debug\WINEX.Properties.Resources.resources
+D:\360MoveData\GitHub\cshap\cshap\WINEX\obj\Debug\WINEX.csproj.GenerateResource.Cache
+D:\360MoveData\GitHub\cshap\cshap\WINEX\obj\Debug\WINEX.exe
+D:\360MoveData\GitHub\cshap\cshap\WINEX\obj\Debug\WINEX.pdb

@@ -1,6 +1,6 @@
 ﻿namespace MysqlHoverTree
 {
-    partial class Form1
+    partial class FrmMysql
     {
         /// <summary>
         /// 必需的设计器变量。
