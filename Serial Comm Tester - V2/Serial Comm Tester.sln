@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serial Comm Tester", "Serial Comm Tester.csproj", "{C22AE764-1206-414F-BCD3-AEBFE71C08B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WINEX", "..\WINEX\WINEX.csproj", "{D74BDC79-9A34-495D-903A-821378CCA704}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MysqlHoverTree", "..\MysqlHoverTree\MysqlHoverTree\MysqlHoverTree.csproj", "{1F934C56-4A73-4D00-89CA-1294C70D74E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C22AE764-1206-414F-BCD3-AEBFE71C08B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C22AE764-1206-414F-BCD3-AEBFE71C08B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C22AE764-1206-414F-BCD3-AEBFE71C08B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C22AE764-1206-414F-BCD3-AEBFE71C08B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D74BDC79-9A34-495D-903A-821378CCA704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D74BDC79-9A34-495D-903A-821378CCA704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D74BDC79-9A34-495D-903A-821378CCA704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D74BDC79-9A34-495D-903A-821378CCA704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F934C56-4A73-4D00-89CA-1294C70D74E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F934C56-4A73-4D00-89CA-1294C70D74E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F934C56-4A73-4D00-89CA-1294C70D74E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F934C56-4A73-4D00-89CA-1294C70D74E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,34 @@
+E:\VSProjects\Serial-Comm-Tester-master\Serial Comm Tester - V2\bin\Debug\Serial Comm Tester.exe.config
+E:\VSProjects\Serial-Comm-Tester-master\Serial Comm Tester - V2\bin\Debug\Serial Comm Tester.exe.manifest
+E:\VSProjects\Serial-Comm-Tester-master\Serial Comm Tester - V2\bin\Debug\Serial Comm Tester.application
+E:\VSProjects\Serial-Comm-Tester-master\Serial Comm Tester - V2\bin\Debug\Serial Comm Tester.exe
+E:\VSProjects\Serial-Comm-Tester-master\Serial Comm Tester - V2\bin\Debug\Serial Comm Tester.pdb
+E:\VSProjects\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial Comm Tester.csprojResolveAssemblyReference.cache
+E:\VSProjects\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial_Comm_Tester.AboutBox1.resources
+E:\VSProjects\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial_Comm_Tester.ChecksumCalc.resources
+E:\VSProjects\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial_Comm_Tester.Conversion_Table.resources
+E:\VSProjects\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial_Comm_Tester.HexChart.resources
+E:\VSProjects\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial_Comm_Tester.Properties.Resources.resources
+E:\VSProjects\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial Comm Tester.csproj.GenerateResource.Cache
+E:\VSProjects\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial Comm Tester.exe.manifest
+E:\VSProjects\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial Comm Tester.application
+E:\VSProjects\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial Comm Tester.exe
+E:\VSProjects\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial Comm Tester.pdb
+Z:\Serial Comm Tester.exe.config
+Z:\Serial Comm Tester.exe.manifest
+Z:\Serial Comm Tester.application
+Z:\Serial Comm Tester.exe
+Z:\Serial Comm Tester.pdb
+E:\VSProjects\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial_Comm_Tester.COMForm.resources
+D:\360MoveData\Visual Studio 2019\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial Comm Tester.exe
+D:\360MoveData\Visual Studio 2019\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial Comm Tester.pdb
+D:\360MoveData\Visual Studio 2019\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial Comm Tester.csprojResolveAssemblyReference.cache
+D:\360MoveData\Visual Studio 2019\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial_Comm_Tester.AboutBox1.resources
+D:\360MoveData\Visual Studio 2019\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial_Comm_Tester.ChecksumCalc.resources
+D:\360MoveData\Visual Studio 2019\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial_Comm_Tester.Conversion_Table.resources
+D:\360MoveData\Visual Studio 2019\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial_Comm_Tester.COMForm.resources
+D:\360MoveData\Visual Studio 2019\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial_Comm_Tester.HexChart.resources
+D:\360MoveData\Visual Studio 2019\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial_Comm_Tester.Properties.Resources.resources
+D:\360MoveData\Visual Studio 2019\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial Comm Tester.csproj.GenerateResource.Cache
+D:\360MoveData\Visual Studio 2019\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial Comm Tester.exe.manifest
+D:\360MoveData\Visual Studio 2019\Serial-Comm-Tester-master\Serial Comm Tester - V2\obj\Debug\Serial Comm Tester.application
