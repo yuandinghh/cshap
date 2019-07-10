@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MysqlHoverTree", "MysqlHoverTree\MysqlHoverTree.csproj", "{1F934C56-4A73-4D00-89CA-1294C70D74E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{7BED953C-A51F-4469-B4CE-4B972AF94431}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{3F7E6051-A510-4103-A230-1BEECF9E4B43}"
+EndProject
+Global
+	GlobalSection(JSLint) = preSolution
+		SolutionConfigurationLocation = JSLintOptions.xml
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F934C56-4A73-4D00-89CA-1294C70D74E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F934C56-4A73-4D00-89CA-1294C70D74E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F934C56-4A73-4D00-89CA-1294C70D74E0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1F934C56-4A73-4D00-89CA-1294C70D74E0}.Debug|x86.Build.0 = Debug|Any CPU
+		{1F934C56-4A73-4D00-89CA-1294C70D74E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F934C56-4A73-4D00-89CA-1294C70D74E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F934C56-4A73-4D00-89CA-1294C70D74E0}.Release|x86.ActiveCfg = Release|Any CPU
+		{1F934C56-4A73-4D00-89CA-1294C70D74E0}.Release|x86.Build.0 = Release|Any CPU
+		{7BED953C-A51F-4469-B4CE-4B972AF94431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BED953C-A51F-4469-B4CE-4B972AF94431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BED953C-A51F-4469-B4CE-4B972AF94431}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7BED953C-A51F-4469-B4CE-4B972AF94431}.Debug|x86.Build.0 = Debug|Any CPU
+		{7BED953C-A51F-4469-B4CE-4B972AF94431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BED953C-A51F-4469-B4CE-4B972AF94431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BED953C-A51F-4469-B4CE-4B972AF94431}.Release|x86.ActiveCfg = Release|Any CPU
+		{7BED953C-A51F-4469-B4CE-4B972AF94431}.Release|x86.Build.0 = Release|Any CPU
+		{3F7E6051-A510-4103-A230-1BEECF9E4B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7E6051-A510-4103-A230-1BEECF9E4B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7E6051-A510-4103-A230-1BEECF9E4B43}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3F7E6051-A510-4103-A230-1BEECF9E4B43}.Debug|x86.Build.0 = Debug|Any CPU
+		{3F7E6051-A510-4103-A230-1BEECF9E4B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7E6051-A510-4103-A230-1BEECF9E4B43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F7E6051-A510-4103-A230-1BEECF9E4B43}.Release|x86.ActiveCfg = Release|Any CPU
+		{3F7E6051-A510-4103-A230-1BEECF9E4B43}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DD3F241-1BB1-4150-A101-D03B6453B5FC}
+	EndGlobalSection
+EndGlobal
